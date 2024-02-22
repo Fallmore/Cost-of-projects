@@ -8,5 +8,4 @@
 
 ## Вид программы
 
-![image](https://github.com/Fallmore/Cost-of-projects/assets/135610092/aeca37ba-e6e0-4036-bcf4-e4b9ba7f0a2d)
-
+![image](https://github.com/Fallmore/Cost-of-projects/assets/135610092/3cb84db2-ae15-4cc7-b006-f114380fd0b2)
