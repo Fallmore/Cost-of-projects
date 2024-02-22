@@ -1,0 +1,22 @@
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\bin\Release\WindowsFormsApplication1.exe.config
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\bin\Release\WindowsFormsApplication1.exe
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\bin\Release\WindowsFormsApplication1.pdb
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Release\WindowsFormsApplication1.csproj.AssemblyReference.cache
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Release\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Release\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Release\WindowsFormsApplication1.exe
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Release\WindowsFormsApplication1.pdb
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Cost-of-projects\bin\Release\WindowsFormsApplication1.exe.config
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Cost-of-projects\bin\Release\WindowsFormsApplication1.exe
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Cost-of-projects\bin\Release\WindowsFormsApplication1.pdb
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Cost-of-projects\obj\Release\WindowsFormsApplication1.csproj.AssemblyReference.cache
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Cost-of-projects\obj\Release\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Cost-of-projects\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Cost-of-projects\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Cost-of-projects\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Cost-of-projects\obj\Release\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Cost-of-projects\obj\Release\WindowsFormsApplication1.exe
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Cost-of-projects\obj\Release\WindowsFormsApplication1.pdb

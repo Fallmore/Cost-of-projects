@@ -1,0 +1,62 @@
+C:\Users\User\Desktop\khalid semantic\test01\0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\User\Desktop\khalid semantic\test01\0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\khalid semantic\test01\0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\khalid semantic\test01\0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\khalid semantic\test01\0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\khalid semantic\test01\0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\khalid semantic\test01\0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\khalid semantic\test01\0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\khalid semantic\test01\0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Администратор\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Администратор\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Администратор\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Администратор\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Администратор\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Администратор\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Администратор\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Администратор\source\repos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Администратор\source\repos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Администратор\source\repos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Администратор\source\repos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Администратор\source\repos\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Администратор\source\repos\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Администратор\source\repos\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Администратор\source\repos\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\АРХИВ\___ДИСЦИПЛИНЫ\_МССПО\МССПО-2024\ПРЕПОДАВАТЕЛЬ\Расчет стоимости проекта (C#)\bin\Debug\WindowsFormsApplication1.exe.config
+D:\АРХИВ\___ДИСЦИПЛИНЫ\_МССПО\МССПО-2024\ПРЕПОДАВАТЕЛЬ\Расчет стоимости проекта (C#)\bin\Debug\WindowsFormsApplication1.exe
+D:\АРХИВ\___ДИСЦИПЛИНЫ\_МССПО\МССПО-2024\ПРЕПОДАВАТЕЛЬ\Расчет стоимости проекта (C#)\bin\Debug\WindowsFormsApplication1.pdb
+D:\АРХИВ\___ДИСЦИПЛИНЫ\_МССПО\МССПО-2024\ПРЕПОДАВАТЕЛЬ\Расчет стоимости проекта (C#)\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\АРХИВ\___ДИСЦИПЛИНЫ\_МССПО\МССПО-2024\ПРЕПОДАВАТЕЛЬ\Расчет стоимости проекта (C#)\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\АРХИВ\___ДИСЦИПЛИНЫ\_МССПО\МССПО-2024\ПРЕПОДАВАТЕЛЬ\Расчет стоимости проекта (C#)\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\АРХИВ\___ДИСЦИПЛИНЫ\_МССПО\МССПО-2024\ПРЕПОДАВАТЕЛЬ\Расчет стоимости проекта (C#)\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\АРХИВ\___ДИСЦИПЛИНЫ\_МССПО\МССПО-2024\ПРЕПОДАВАТЕЛЬ\Расчет стоимости проекта (C#)\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\АРХИВ\___ДИСЦИПЛИНЫ\_МССПО\МССПО-2024\ПРЕПОДАВАТЕЛЬ\Расчет стоимости проекта (C#)\obj\Debug\WindowsFormsApplication1.exe
+D:\АРХИВ\___ДИСЦИПЛИНЫ\_МССПО\МССПО-2024\ПРЕПОДАВАТЕЛЬ\Расчет стоимости проекта (C#)\obj\Debug\WindowsFormsApplication1.pdb
+D:\АРХИВ\___ДИСЦИПЛИНЫ\_МССПО\МССПО-2024\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\bin\Debug\WindowsFormsApplication1.exe.config
+D:\АРХИВ\___ДИСЦИПЛИНЫ\_МССПО\МССПО-2024\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\bin\Debug\WindowsFormsApplication1.exe
+D:\АРХИВ\___ДИСЦИПЛИНЫ\_МССПО\МССПО-2024\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\bin\Debug\WindowsFormsApplication1.pdb
+D:\АРХИВ\___ДИСЦИПЛИНЫ\_МССПО\МССПО-2024\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\АРХИВ\___ДИСЦИПЛИНЫ\_МССПО\МССПО-2024\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\АРХИВ\___ДИСЦИПЛИНЫ\_МССПО\МССПО-2024\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\АРХИВ\___ДИСЦИПЛИНЫ\_МССПО\МССПО-2024\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\АРХИВ\___ДИСЦИПЛИНЫ\_МССПО\МССПО-2024\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\АРХИВ\___ДИСЦИПЛИНЫ\_МССПО\МССПО-2024\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Debug\WindowsFormsApplication1.exe
+D:\АРХИВ\___ДИСЦИПЛИНЫ\_МССПО\МССПО-2024\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Debug\WindowsFormsApplication1.pdb
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\bin\Debug\WindowsFormsApplication1.exe.config
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\bin\Debug\WindowsFormsApplication1.exe
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\bin\Debug\WindowsFormsApplication1.pdb
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Debug\WindowsFormsApplication1.exe
+D:\учёба\2 курс\2 семестр\Метрология\2_ЛАБОРАТОРНЫЕ РАБОТЫ\ЛР01-02_Расчет затрат на разработку ПО\Интерфейс на C#\obj\Debug\WindowsFormsApplication1.pdb
